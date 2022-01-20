@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px auto 0px auto;
+    background: rgb(0, 243, 252);
+}
+
+h1 {
+    padding-top: 200px;
+    padding-left: 500px;
+    padding-bottom: 200px;
+    color: rgb(255,255,255);
+    font-size: 50px;
+}
+
+h2 {
+    padding-top: 0px;
+    padding-left: 490px;
+    padding-bottom: 200px;
+    font-size: 25px;
+}
+
+p {
+    padding-top: 0px;
+    padding-left: 490px;
+    padding-bottom: 200px;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    margin: 160px;
+}
+
+.container {
+    margin: 20px auto 0 auto;
+    text-align: justify;
+}
+
+.portfolio-text{
+    height: 19px;
+    width: auto;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+}
+
+.navigation-menu {
+    background-color: #d13232;
+    padding: 20px;
+    }
+
+.main-content {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    }
